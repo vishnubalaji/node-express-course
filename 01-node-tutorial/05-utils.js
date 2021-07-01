@@ -3,4 +3,4 @@ const sayHi = (name) => {
 }
 // export default
 module.exports = sayHi
-//completed
+//Completed
